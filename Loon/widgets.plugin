@@ -1,0 +1,8 @@
+#!name=widgets订阅管理
+#!desc=widgets订阅管理会员
+#!author=89996462
+
+[Script]
+http-response ^https:\/\/top-widgets-api\.xiaozujian\.com\/api\/app\/config\/userConfig requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/widgets.js
+[mitm]
+hostname=top-widgets-api.xiaozujian.com

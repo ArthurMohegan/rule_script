@@ -26,3 +26,6 @@ DOMAIN-SUFFIX,arzyelbuilds.com
 DOMAIN-SUFFIX,dottzgaming.com
 DOMAIN-SUFFIX,rage-esports.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN,cdn.auth0.com
+DOMAIN,openaiapi-site.azureedge.net
